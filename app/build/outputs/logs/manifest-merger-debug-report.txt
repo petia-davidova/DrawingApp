@@ -1,0 +1,154 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/queenb/Projects/DrawingApp/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/queenb/Projects/DrawingApp/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/queenb/Projects/DrawingApp/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/queenb/Projects/DrawingApp/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/queenb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/54edf5e14b9f648bb5a841cc24cc159c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/queenb/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/afaa6c8d9e75f39449efd1b6791f2c53/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/queenb/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/8ff4ddb3ffbe526aa797e610cb1c0503/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/queenb/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/f1d92b077e2cd42664cffb89e83461a2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/queenb/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/8c79878e6c6ef7bebc0260438287fdc1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/queenb/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/54642b6d27a218083f8da02e6fc99de7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/queenb/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/e0a638c219aaa82bec29c4bbae882620/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/queenb/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/ecb16694d323852c0d6b02653711dbd7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/queenb/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/58046d59e26546da6d67451fe61ed0b1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/queenb/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/826d9ddacc0fe3cbf324ef27a333a31c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/queenb/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/4c9c34e556f4b2b2b43b3ac8a3e831e0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/queenb/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/f3a0f640909ee7ffe1a21ed9a23bef84/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/queenb/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/fd99d245218e3243650697c1fc90a392/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/queenb/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/7f32acceea1c2a8ce1817b95c6c8a9a5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/queenb/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/b63f7a39198d536493f5a1937ece8d87/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/queenb/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/2b4a81f2e7f11fb712538fec9a2b6e90/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/queenb/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/8de4af27ca89ca0884e670e433a08a94/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/queenb/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/850fb4ceb7f49454774c2101a5e733dc/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/queenb/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/785456a4415487eb129a5718d7332916/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/queenb/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/42d501b0b3dfa8d4dbec73d5404b0eb4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/queenb/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/4c73ebf4129360bff961d0f5cc4df115/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/queenb/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/a3b94a37d85d465311a48e4162c6131f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/queenb/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/72c72b0af483e5f620342bfe90df3eb3/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/queenb/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/bb4b84e4034b15ac191c1ef7f3768eb0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/queenb/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/fa4351c0ba9c4aa4183984133ad57d20/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/queenb/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/124f7d9af9037343caa744473452773e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/queenb/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/783ece1a7789ec3d2f5304bc0f04bacf/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/queenb/Projects/DrawingApp/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/queenb/Projects/DrawingApp/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/queenb/Projects/DrawingApp/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /home/queenb/Projects/DrawingApp/app/src/main/AndroidManifest.xml:3:5-40
+		INJECTED from /home/queenb/Projects/DrawingApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/queenb/Projects/DrawingApp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/queenb/Projects/DrawingApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/queenb/Projects/DrawingApp/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/queenb/Projects/DrawingApp/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/queenb/Projects/DrawingApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/queenb/Projects/DrawingApp/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/queenb/Projects/DrawingApp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/queenb/Projects/DrawingApp/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/queenb/Projects/DrawingApp/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/queenb/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/afaa6c8d9e75f39449efd1b6791f2c53/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/queenb/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/afaa6c8d9e75f39449efd1b6791f2c53/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/queenb/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/2b4a81f2e7f11fb712538fec9a2b6e90/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/queenb/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/2b4a81f2e7f11fb712538fec9a2b6e90/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/queenb/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/8de4af27ca89ca0884e670e433a08a94/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/queenb/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/8de4af27ca89ca0884e670e433a08a94/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/queenb/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/2b4a81f2e7f11fb712538fec9a2b6e90/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/queenb/Projects/DrawingApp/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/queenb/Projects/DrawingApp/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/queenb/Projects/DrawingApp/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/queenb/Projects/DrawingApp/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/queenb/Projects/DrawingApp/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/queenb/Projects/DrawingApp/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.myapplication.MainActivity
+ADDED from /home/queenb/Projects/DrawingApp/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/queenb/Projects/DrawingApp/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/queenb/Projects/DrawingApp/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/queenb/Projects/DrawingApp/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/queenb/Projects/DrawingApp/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/queenb/Projects/DrawingApp/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/queenb/Projects/DrawingApp/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /home/queenb/Projects/DrawingApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/queenb/Projects/DrawingApp/app/src/main/AndroidManifest.xml
+INJECTED from /home/queenb/Projects/DrawingApp/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/queenb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/54edf5e14b9f648bb5a841cc24cc159c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/queenb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/54edf5e14b9f648bb5a841cc24cc159c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/queenb/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/afaa6c8d9e75f39449efd1b6791f2c53/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/queenb/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/afaa6c8d9e75f39449efd1b6791f2c53/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /home/queenb/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/8ff4ddb3ffbe526aa797e610cb1c0503/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/queenb/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/8ff4ddb3ffbe526aa797e610cb1c0503/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/queenb/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/f1d92b077e2cd42664cffb89e83461a2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/queenb/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/f1d92b077e2cd42664cffb89e83461a2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/queenb/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/8c79878e6c6ef7bebc0260438287fdc1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/queenb/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/8c79878e6c6ef7bebc0260438287fdc1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/queenb/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/54642b6d27a218083f8da02e6fc99de7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/queenb/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/54642b6d27a218083f8da02e6fc99de7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/queenb/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/e0a638c219aaa82bec29c4bbae882620/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/queenb/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/e0a638c219aaa82bec29c4bbae882620/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/queenb/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/ecb16694d323852c0d6b02653711dbd7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/queenb/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/ecb16694d323852c0d6b02653711dbd7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/queenb/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/58046d59e26546da6d67451fe61ed0b1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/queenb/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/58046d59e26546da6d67451fe61ed0b1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/queenb/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/826d9ddacc0fe3cbf324ef27a333a31c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/queenb/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/826d9ddacc0fe3cbf324ef27a333a31c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/queenb/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/4c9c34e556f4b2b2b43b3ac8a3e831e0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/queenb/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/4c9c34e556f4b2b2b43b3ac8a3e831e0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/queenb/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/f3a0f640909ee7ffe1a21ed9a23bef84/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/queenb/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/f3a0f640909ee7ffe1a21ed9a23bef84/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/queenb/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/fd99d245218e3243650697c1fc90a392/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/queenb/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/fd99d245218e3243650697c1fc90a392/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/queenb/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/7f32acceea1c2a8ce1817b95c6c8a9a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/queenb/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/7f32acceea1c2a8ce1817b95c6c8a9a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/queenb/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/b63f7a39198d536493f5a1937ece8d87/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/queenb/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/b63f7a39198d536493f5a1937ece8d87/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/queenb/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/2b4a81f2e7f11fb712538fec9a2b6e90/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/queenb/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/2b4a81f2e7f11fb712538fec9a2b6e90/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/queenb/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/8de4af27ca89ca0884e670e433a08a94/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/queenb/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/8de4af27ca89ca0884e670e433a08a94/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/queenb/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/850fb4ceb7f49454774c2101a5e733dc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/queenb/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/850fb4ceb7f49454774c2101a5e733dc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/queenb/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/785456a4415487eb129a5718d7332916/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/queenb/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/785456a4415487eb129a5718d7332916/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/queenb/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/42d501b0b3dfa8d4dbec73d5404b0eb4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/queenb/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/42d501b0b3dfa8d4dbec73d5404b0eb4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/queenb/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/4c73ebf4129360bff961d0f5cc4df115/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/queenb/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/4c73ebf4129360bff961d0f5cc4df115/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/queenb/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/a3b94a37d85d465311a48e4162c6131f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/queenb/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/a3b94a37d85d465311a48e4162c6131f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/queenb/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/72c72b0af483e5f620342bfe90df3eb3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/queenb/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/72c72b0af483e5f620342bfe90df3eb3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/queenb/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/bb4b84e4034b15ac191c1ef7f3768eb0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/queenb/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/bb4b84e4034b15ac191c1ef7f3768eb0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/queenb/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/fa4351c0ba9c4aa4183984133ad57d20/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/queenb/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/fa4351c0ba9c4aa4183984133ad57d20/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/queenb/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/124f7d9af9037343caa744473452773e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/queenb/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/124f7d9af9037343caa744473452773e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/queenb/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/783ece1a7789ec3d2f5304bc0f04bacf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/queenb/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/783ece1a7789ec3d2f5304bc0f04bacf/AndroidManifest.xml:20:5-44
+INJECTED from /home/queenb/Projects/DrawingApp/app/src/main/AndroidManifest.xml
+INJECTED from /home/queenb/Projects/DrawingApp/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/queenb/Projects/DrawingApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/queenb/Projects/DrawingApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/queenb/Projects/DrawingApp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/queenb/Projects/DrawingApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/queenb/Projects/DrawingApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/queenb/Projects/DrawingApp/app/src/main/AndroidManifest.xml
